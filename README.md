@@ -46,3 +46,30 @@ Portfolio → Securities (One-to-Many)
 ---
 
 ## 📂 Project Structure
+
+Contains all JPA entity classes.
+
+---
+
+## 🎯 Learning Outcomes
+- Understanding of Data Modeling
+- ERD to Code Implementation
+- JPA Entity Mapping
+- Spring Boot Backend Structure
+
+---
+
+## 🚀 How to Run
+1. Clone repository
+2. Open in IntelliJ
+3. Run Spring Boot Application
+
+---
+
+## 📌 Author
+Tushar Sanap
+
+---
+
+## 📜 License
+For learning and demonstration purposes.
